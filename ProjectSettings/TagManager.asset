@@ -38,6 +38,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Card
+    uniqueID: 3409887885
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
